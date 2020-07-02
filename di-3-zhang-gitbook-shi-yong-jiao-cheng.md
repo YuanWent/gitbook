@@ -60,7 +60,18 @@ if(false)for(n.handler&&(i=n,n=i.handler,o=i.selector),o&&de.find.matchesSelecto
 
 &emsp;&emsp;&emsp;typora显示结果，其实就是无序列表
 
-
+## Tips:GitBook常用命令
+```
+gitbook -V 查看版本号
+gitbook init 初始化
+gitbook serve 预览
+gitbook build 生成
+gitbook build --gitbook=2.6.7 生成时指定gitbook的版本, 本地没有会先下载
+gitbook uninstall 2.6.7 卸载指定版本号的gitbook
+gitbook fetch [version] 获取[版本]下载并安装<版本>
+gitbook --help 显示帮助文档
+gitbook ls-remote 列出NPM上的可用版本：
+```
 
 
 
