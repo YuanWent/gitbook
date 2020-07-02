@@ -1,3 +1,16 @@
-# My Awesome Book
+# 前言&目录
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+<hr>
+
+#### 第1章 安装node.js
+
+#### 第2章 通过node.js安装GitBook
+
+#### 第3章 GItBook使用教程
+
+#### 第4章 下载GitBook Editor来编辑文章
+#### 第5章 安装Git,常用的命令
+#### 第6章 通过Git将书籍上传到Gighub
+#### 第7章 创建Gighub分支,将导出html上传,并绑定域名
+
+
