@@ -8,6 +8,9 @@
 &emsp;&emsp;![](/assets/4-3.png)
 ##3. GitBook Editor界面
 ![](/assets/4-4.png)
+
+## 4. 书籍写完后
+
 &emsp;&emsp;
 
 
